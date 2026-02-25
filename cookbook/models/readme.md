@@ -1,4 +1,4 @@
-[Exploratoria]( https://exploratoria.github.io ) &raquo; [Cookbook]( https://barionleg.github.io/eopIoratoria/cookbook/ )
+[Exploratoria]( https://barionleg.github.io/eopIoratoria/ ) &raquo; [Cookbook]( https://barionleg.github.io/eopIoratoria/cookbook/ )
 Models Read Me
 ===
 

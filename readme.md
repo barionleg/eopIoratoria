@@ -1,7 +1,7 @@
-﻿exploratoria.github.io
+﻿barionleg.github.io/eopIoratoria/
 ===
-<span style="display: none"> [View as web page]( http://exploratoria.github.io/ 'View file as a web page' ) </span>
-<input type=button value="View file as source code on GitHub" onclick="window.location.href='https://github.com/exploratoria/exploratoria.github.io/'" />
+<span style="display: none"> [View as web page]( http://barionleg.github.io/eopIoratoria// 'View file as a web page' ) </span>
+<input type=button value="View file as source code on GitHub" onclick="window.location.href='https://github.com/exploratoria/barionleg.github.io/eopIoratoria//'" />
 
 Welcome to the Exploratoria home page!
 
@@ -38,57 +38,57 @@ that help visualize and further understanding of scientific, technical, engineer
 The intention is to provide scripts dealing with the following categories:
 
 * Aerospace
-* [Astronomy & Solar System]( http://exploratoria.github.io/exhibits/astronomy/index.html )
+* [Astronomy & Solar System]( http://barionleg.github.io/eopIoratoria//exhibits/astronomy/index.html )
 * Biology
-* [Chemistry]( http://exploratoria.github.io/exhibits/chemistry/index.html )
+* [Chemistry]( http://barionleg.github.io/eopIoratoria//exhibits/chemistry/index.html )
 * Electricity & Magnetism
 * Energy
-* [Engineering & Structure]( http://exploratoria.github.io/exhibits/engineering/index.html )
+* [Engineering & Structure]( http://barionleg.github.io/eopIoratoria//exhibits/engineering/index.html )
 * Geology
-* [Heat & Temperature]( http://exploratoria.github.io/exhibits/heat/index.html )
+* [Heat & Temperature]( http://barionleg.github.io/eopIoratoria//exhibits/heat/index.html )
 * Human Anatomy
 * Language & Speech
-* [Light & Color]( http://exploratoria.github.io/exhibits/light/index.html )
+* [Light & Color]( http://barionleg.github.io/eopIoratoria//exhibits/light/index.html )
 * Materials
-* [Mathematics & Patterns]( http://exploratoria.github.io/exhibits/mathematics/index.html )
-* [Mechanics, Dynamics & Motion]( http://exploratoria.github.io/exhibits/mechanics/index.html )
+* [Mathematics & Patterns]( http://barionleg.github.io/eopIoratoria//exhibits/mathematics/index.html )
+* [Mechanics, Dynamics & Motion]( http://barionleg.github.io/eopIoratoria//exhibits/mechanics/index.html )
 * Navigation & Mapping
 * Smell - Taste - Touch
 * Sound & Hearing
 * Vision & Eye Logic
-* [Waves & Resonance]( http://exploratoria.github.io/exhibits/waves/index.html )
+* [Waves & Resonance]( http://barionleg.github.io/eopIoratoria//exhibits/waves/index.html )
 * Weather & Water
 
 Noticeably absent are categories pertaining to computers, the Internet, digital media and the like. 
 This website uses technology to explain, show and demonstrate the physical and theoretical aspects of our world. 
 It attempts to achieve the best of what technology should do in the real world.
 
-[Exhibits Read Me - web page view]( http://exploratoria.github.io/exhibits/ )  
-[Exhibits Read Me - source code view]( https://github.com/exploratoria/exploratoria.github.io/tree/master/exhibits/ )
+[Exhibits Read Me - web page view]( http://barionleg.github.io/eopIoratoria//exhibits/ )  
+[Exhibits Read Me - source code view]( https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/exhibits/ )
 
 
 ## Cookbook
 
 Short coding samples - also called snippets - solutions to common tasks, 'presented in detail so that the users who are not necessarily expert in the field can produce workable results'.
 
-[Cookbook - web page view]( http://exploratoria.github.io/cookbook/ )  
-[Cookbook - source code view]( https://github.com/exploratoria/exploratoria.github.io/tree/master/cookbook/ )
+[Cookbook - web page view]( http://barionleg.github.io/eopIoratoria//cookbook/ )  
+[Cookbook - source code view]( https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/cookbook/ )
 
 
 ## Templates
 
 These are the files we use to build this web site. You can use them too.
 
-[Templates - web page view]( http://exploratoria.github.io/templates/ )  
-[Templates - source code view]( https://github.com/exploratoria/exploratoria.github.io/tree/master/templates/ )
+[Templates - web page view]( http://barionleg.github.io/eopIoratoria//templates/ )  
+[Templates - source code view]( https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/templates/ )
 
 
 ## Library
 
 Supporting files and miscellaneous utilities
 
-[Library - web page view]( http://exploratoria.github.io/lib/ )  
-[Library - source code view]( https://github.com/exploratoria/exploratoria.github.io/tree/master/lib/ )
+[Library - web page view]( http://barionleg.github.io/eopIoratoria//lib/ )  
+[Library - source code view]( https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/lib/ )
 
 
 <center>

@@ -1,9 +1,9 @@
-[Exploratoria]( http://exploratoria.github.io ) &raquo;
+[Exploratoria]( http://barionleg.github.io/eopIoratoria/ ) &raquo;
 Notes
 ===
 
-<span style="display: none"> [View as web page]( http://exploratoria.github.io/index.html#notes.md 'View file as a web page' ) </span>
-<input type=button value="View file as source code on GitHub" onclick="window.location.href='https://github.com/exploratoria/exploratoria.github.io/blob/master/notes.md'" />
+<span style="display: none"> [View as web page]( http://barionleg.github.io/eopIoratoria//index.html#notes.md 'View file as a web page' ) </span>
+<input type=button value="View file as source code on GitHub" onclick="window.location.href='https://github.com/exploratoria/barionleg.github.io/eopIoratoria//blob/master/notes.md'" />
 
 
 
@@ -60,7 +60,7 @@ The font used here is the the default 'monospace' font as determined by your bro
 ### Versioning
 
 * Trying out [semantic versioning]( http://semver.org/ )
-* See [Version Manage]( http://exploratoria.github.io/sandbox/sandbox/version-manage/index.html ) project for more details
+* See [Version Manage]( http://barionleg.github.io/eopIoratoria//sandbox/sandbox/version-manage/index.html ) project for more details
 
 
 ### Content Delivery Networks (CDN)

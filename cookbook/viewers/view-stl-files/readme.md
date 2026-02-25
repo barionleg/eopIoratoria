@@ -1,9 +1,9 @@
-[Exploratoria]( https://exploratoria.github.io ) &raquo; [Cookbook]( https://barionleg.github.io/eopIoratoria/cookbook/ ) &raquo; [Viewers]( https://barionleg.github.io/eopIoratoria/cookbook/viewers/ ) &raquo; 
+[Exploratoria]( https://barionleg.github.io/eopIoratoria/ ) &raquo; [Cookbook]( https://barionleg.github.io/eopIoratoria/cookbook/ ) &raquo; [Viewers]( https://barionleg.github.io/eopIoratoria/cookbook/viewers/ ) &raquo; 
 View STL Files Read Me
 ===
 
 <span style="display: none"> [You are now in GitHub source code view - click here to view Read Me file as a web page]( https://barionleg.github.io/eopIoratoria/cookbook/viewers/view-stl-files/index.html 'View file as a web page' ) </span>
-<input type=button value="You are now in GitHub web page view - Click here to view Read Me file as source code" onclick="window.location.href='https://github.com/exploratoria/exploratoria.github.io/tree/master/cookbook/viewers/view-stl-files/'" />
+<input type=button value="You are now in GitHub web page view - Click here to view Read Me file as source code" onclick="window.location.href='https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/cookbook/viewers/view-stl-files/'" />
 
 <iframe id=view src="https://barionleg.github.io/eopIoratoria/lib/code-edit-view/code-edit-view.html#https://barionleg.github.io/eopIoratoria/cookbook/viewers/view-stl-files/view-stl-files-v-0-1-0.html" width=100% height=500px ></iframe>
 
@@ -16,7 +16,7 @@ This cookbook example opens and display [STL]( https://en.wikipedia.org/wiki/STL
 
 [View STL Files - Full Screen Demo - Build]( https://barionleg.github.io/eopIoratoria/cookbook/viewers/view-stl-files/build/index.html )  
 
-[View STL Files  - Source Code - Build]( https://github.com/exploratoria/exploratoria.github.io/blob/master/cookbook/viewers/view-stl-files/view-stl-files-v-0-1-0.html )  
+[View STL Files  - Source Code - Build]( https://github.com/exploratoria/barionleg.github.io/eopIoratoria//blob/master/cookbook/viewers/view-stl-files/view-stl-files-v-0-1-0.html )  
 
 ## Examples
 
