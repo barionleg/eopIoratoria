@@ -1,5 +1,5 @@
-[Exploratoria]( http://exploratoria.github.io ) &raquo; [Exhibits]( http://exploratoria.github.io/exhibits/ ) &raquo;
-[Mathematics & Patterns]( http://exploratoria.github.io/exhibits/mathematics/ ) &raquo;
+[Exploratoria]( http://barionleg.github.io/eopIoratoria/ ) &raquo; [Exhibits]( http://barionleg.github.io/eopIoratoria//exhibits/ ) &raquo;
+[Mathematics & Patterns]( http://barionleg.github.io/eopIoratoria//exhibits/mathematics/ ) &raquo;
 
 # Lorenz Attractor
 
@@ -7,10 +7,10 @@
 
 <span style="display: none">_View as a web page to see the content of this iframe_</span>
 
-<span style="display: none"> [You are now in GitHub source code view - Click here to view as a web page]( http://exploratoria.github.io/exhibits/mathematics/lorenz-attractor/index.html 'View file as a web page' ) </span>
-<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/exploratoria/exploratoria.github.io/tree/master/exhibits/mathematics/lorenz-attractor/'" />
+<span style="display: none"> [You are now in GitHub source code view - Click here to view as a web page]( http://barionleg.github.io/eopIoratoria//exhibits/mathematics/lorenz-attractor/index.html 'View file as a web page' ) </span>
+<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/exhibits/mathematics/lorenz-attractor/'" />
 
-[Lorenz Attractor - Full Screen](http://exploratoria.github.io/exhibits/mathematics/lorenz-attractor/lorenz-attractor.html)
+[Lorenz Attractor - Full Screen](http://barionleg.github.io/eopIoratoria//exhibits/mathematics/lorenz-attractor/lorenz-attractor.html)
 
 The famous <a href=https://en.wikipedia.org/wiki/Lorenz_system>Lorenz attractor</a>, a chaotic system that resembles a butterfly.
 

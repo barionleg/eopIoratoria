@@ -1,5 +1,5 @@
-[Exploratoria]( http://exploratoria.github.io ) &raquo; [Exhibits]( http://exploratoria.github.io/exhibits/ ) &raquo;
-[Waves & Resonance]( http://exploratoria.github.io/exhibits/waves/ ) &raquo;
+[Exploratoria]( http://barionleg.github.io/eopIoratoria/ ) &raquo; [Exhibits]( http://barionleg.github.io/eopIoratoria//exhibits/ ) &raquo;
+[Waves & Resonance]( http://barionleg.github.io/eopIoratoria//exhibits/waves/ ) &raquo;
 
 # Cylindrical Wave
 
@@ -7,8 +7,8 @@
 
 <span style="display: none">_View as a web page to see the content of this iframe_</span>
 
-<span style="display: none"> [You are now in GitHub source code view - Click here to view as a web page]( http://exploratoria.github.io/exhibits/waves/cylindrical-wave/index.html 'View file as a web page' ) </span>
-<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/exploratoria/exploratoria.github.io/tree/master/exhibits/waves/cylindrical-wave/'" />
+<span style="display: none"> [You are now in GitHub source code view - Click here to view as a web page]( http://barionleg.github.io/eopIoratoria//exhibits/waves/cylindrical-wave/index.html 'View file as a web page' ) </span>
+<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/exhibits/waves/cylindrical-wave/'" />
 
 A <a href=http://scienceworld.wolfram.com/physics/CylindricalWave.html>cylindrical wave</a> is
 an oscillatory motion of all particles with respect to an infinite line, in this case the <i>z</i>-axis. Since all particles move towards and away from the same line, the wave consists of cylinders. A cylindrical wave is a solution to the <a href=https://en.wikipedia.org/wiki/Wave_equation#Scalar_wave_equation_in_two_space_dimensions>wave equation</a> with two dimensions of space.

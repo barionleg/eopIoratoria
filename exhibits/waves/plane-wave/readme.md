@@ -1,5 +1,5 @@
-[Exploratoria]( http://exploratoria.github.io ) &raquo; [Exhibits]( http://exploratoria.github.io/exhibits/ ) &raquo;
-[Waves & Resonance]( http://exploratoria.github.io/exhibits/waves/ ) &raquo;
+[Exploratoria]( http://barionleg.github.io/eopIoratoria/ ) &raquo; [Exhibits]( http://barionleg.github.io/eopIoratoria//exhibits/ ) &raquo;
+[Waves & Resonance]( http://barionleg.github.io/eopIoratoria//exhibits/waves/ ) &raquo;
 
 # Plane Wave
 
@@ -7,8 +7,8 @@
 
 <span style="display: none">_View as a web page to see the content of this iframe_</span>
 
-<span style="display: none"> [You are now in GitHub source code view - Click here to view as a web page]( http://exploratoria.github.io/exhibits/waves/plane-wave/index.html 'View file as a web page' ) </span>
-<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/exploratoria/exploratoria.github.io/tree/master/exhibits/waves/plane-wave/'" />
+<span style="display: none"> [You are now in GitHub source code view - Click here to view as a web page]( http://barionleg.github.io/eopIoratoria//exhibits/waves/plane-wave/index.html 'View file as a web page' ) </span>
+<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/exhibits/waves/plane-wave/'" />
 
 A <a href=https://en.wikipedia.org/wiki/Plane_wave>plane wave</a> is an oscillatory motion of all particles along a fixed direction, in this case the <i>x</i>-axis. Since all particles move back and forth in the same direction, the wave consists of parallel planes. A plane wave is a solution to the <a href=https://en.wikipedia.org/wiki/Wave_equation#Scalar_wave_equation_in_one_space_dimension>wave equation</a> with one dimension of space.
 

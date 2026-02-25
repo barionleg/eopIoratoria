@@ -1,5 +1,5 @@
-[Exploratoria]( http://exploratoria.github.io ) &raquo; [Exhibits]( http://exploratoria.github.io/exhibits/ ) &raquo;
-[Mechanics, Dynamics & Motion]( http://exploratoria.github.io/exhibits/mechanics/ ) &raquo;
+[Exploratoria]( http://barionleg.github.io/eopIoratoria/ ) &raquo; [Exhibits]( http://barionleg.github.io/eopIoratoria//exhibits/ ) &raquo;
+[Mechanics, Dynamics & Motion]( http://barionleg.github.io/eopIoratoria//exhibits/mechanics/ ) &raquo;
 
 # Elastic Collisions in Flatland
 
@@ -7,8 +7,8 @@
 
 <span style="display: none">_View as a web page to see the content of this iframe_</span>
 
-<span style="display: none"> [You are now in GitHub source code view - Click here to view as a web page]( http://exploratoria.github.io/exhibits/mechanics/elastic-collisions-in-flatland/index.html 'View file as a web page' ) </span>
-<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/exploratoria/exploratoria.github.io/tree/master/exhibits/mechanics/elastic-collisions-in-flatland/'" />
+<span style="display: none"> [You are now in GitHub source code view - Click here to view as a web page]( http://barionleg.github.io/eopIoratoria//exhibits/mechanics/elastic-collisions-in-flatland/index.html 'View file as a web page' ) </span>
+<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/exhibits/mechanics/elastic-collisions-in-flatland/'" />
 
 A bunch of bouncing balls elastically colliding in three dimensions, as seen by the two-dimensional occupants of [Flatland]( https://en.wikipedia.org/wiki/Flatland ).
 
@@ -22,7 +22,7 @@ The word "elastic" in this context means that total kinetic energy, the measure 
  
 ### About the Code
 
-This exhibit is a modification of [Elastic Collisions in 3D](http://exploratoria.github.io/exhibits/mechanics/elastic-collisions-in-3d/index.html). All of the math for the collisions is identical: what is changed is the graphic displayed from the same underlying data. This shows how you can repurpose code in three dimensions to fit other problems.
+This exhibit is a modification of [Elastic Collisions in 3D](http://barionleg.github.io/eopIoratoria//exhibits/mechanics/elastic-collisions-in-3d/index.html). All of the math for the collisions is identical: what is changed is the graphic displayed from the same underlying data. This shows how you can repurpose code in three dimensions to fit other problems.
 
 The intersections are calculated algebraically rather than attempting to find them by raytracing from the origin of each sphere. This process of display is not only much simpler than raytracing but better behaved in a rapidly changing dynamic system.
 

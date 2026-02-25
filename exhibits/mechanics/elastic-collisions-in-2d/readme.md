@@ -1,5 +1,5 @@
-[Exploratoria]( http://exploratoria.github.io ) &raquo; [Exhibits]( http://exploratoria.github.io/exhibits/ ) &raquo;
-[Mechanics, Dynamics & Motion]( http://exploratoria.github.io/exhibits/mechanics/ ) &raquo;
+[Exploratoria]( http://barionleg.github.io/eopIoratoria/ ) &raquo; [Exhibits]( http://barionleg.github.io/eopIoratoria//exhibits/ ) &raquo;
+[Mechanics, Dynamics & Motion]( http://barionleg.github.io/eopIoratoria//exhibits/mechanics/ ) &raquo;
 
 # Elastic Collisions in 2D
 
@@ -7,8 +7,8 @@
 
 <span style="display: none">_View as a web page to see the content of this iframe_</span>
 
-<span style="display: none"> [You are now in GitHub source code view - Click here to view as a web page]( http://exploratoria.github.io/exhibits/mechanics/elastic-collisions-in-2d/index.html 'View file as a web page' ) </span>
-<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/exploratoria/exploratoria.github.io/tree/master/exhibits/mechanics/elastic-collisions-in-2d/'" />
+<span style="display: none"> [You are now in GitHub source code view - Click here to view as a web page]( http://barionleg.github.io/eopIoratoria//exhibits/mechanics/elastic-collisions-in-2d/index.html 'View file as a web page' ) </span>
+<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/exhibits/mechanics/elastic-collisions-in-2d/'" />
 
 A bunch of bouncing balls elastically colliding with the walls and one another!
 
@@ -24,7 +24,7 @@ The word "elastic" in this context means that total kinetic energy, the measure 
  
 ### About the Code
 
-This exhibit is a modification of [Elastic Collisions in 3D](http://exploratoria.github.io/exhibits/mechanics/elastic-collisions-in-3d/index.html), with all components of position and velocity along the z-direction set equal to zero initially. Otherwise all of the math is identical. This shows how you can repurpose code in three dimensions to fit other problems.
+This exhibit is a modification of [Elastic Collisions in 3D](http://barionleg.github.io/eopIoratoria//exhibits/mechanics/elastic-collisions-in-3d/index.html), with all components of position and velocity along the z-direction set equal to zero initially. Otherwise all of the math is identical. This shows how you can repurpose code in three dimensions to fit other problems.
 
 Since JavaScript is susceptible to rounding errors, some motion in the z-direction may build up as the simulation runs. For this reason the test for encountering walls in the z-direction is simply left in place from the three-dimensional exhibit.
 
