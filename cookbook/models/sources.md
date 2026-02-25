@@ -1,4 +1,4 @@
-[Exploratoria]( https://exploratoria.github.io ) &raquo; [Cookbook]( https://exploratoria.github.io/cookbook/ ) &raquo; [Models]( https://exploratoria.github.io/cookbook/models/ ) &raquo; 
+[Exploratoria]( https://exploratoria.github.io ) &raquo; [Cookbook]( https://barionleg.github.io/eopIoratoria/cookbook/ ) &raquo; [Models]( https://barionleg.github.io/eopIoratoria/cookbook/models/ ) &raquo; 
 Sources
 ===
 
