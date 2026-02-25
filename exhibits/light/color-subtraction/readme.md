@@ -1,5 +1,5 @@
-[Exploratoria]( http://exploratoria.github.io ) &raquo; [Exhibits]( http://exploratoria.github.io/exhibits/ ) &raquo;
-[Light & Color]( http://exploratoria.github.io/exhibits/light/ ) &raquo;
+[Exploratoria]( http://barionleg.github.io/eopIoratoria/ ) &raquo; [Exhibits]( http://barionleg.github.io/eopIoratoria//exhibits/ ) &raquo;
+[Light & Color]( http://barionleg.github.io/eopIoratoria//exhibits/light/ ) &raquo;
 
 # Color Subtraction
 
@@ -7,8 +7,8 @@
 
 <span style="display: none">_View as a web page to see the content of this iframe_</span>
 
-<span style="display: none"> [You are now in GitHub source code view - Click here to view as a web page]( http://exploratoria.github.io/exhibits/light/color-subtraction/index.html 'View file as a web page' ) </span>
-<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/exploratoria/exploratoria.github.io/tree/master/exhibits/light/color-subtraction/'" />
+<span style="display: none"> [You are now in GitHub source code view - Click here to view as a web page]( http://barionleg.github.io/eopIoratoria//exhibits/light/color-subtraction/index.html 'View file as a web page' ) </span>
+<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/exhibits/light/color-subtraction/'" />
 
 Primary colors and black are created by subtraction of frequencies. That's how paint works!
 

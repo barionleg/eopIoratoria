@@ -1,5 +1,5 @@
-[Exploratoria]( http://exploratoria.github.io ) &raquo; [Exhibits]( http://exploratoria.github.io/exhibits/ ) &raquo;
-[Engineering & Structure]( http://exploratoria.github.io/exhibits/engineering/ ) &raquo;
+[Exploratoria]( http://barionleg.github.io/eopIoratoria/ ) &raquo; [Exhibits]( http://barionleg.github.io/eopIoratoria//exhibits/ ) &raquo;
+[Engineering & Structure]( http://barionleg.github.io/eopIoratoria//exhibits/engineering/ ) &raquo;
 
 # Platonic Solids
 
@@ -7,8 +7,8 @@
 
 <span style="display: none">_View as a web page to see the content of this iframe_</span>
 
-<span style="display: none"> [You are now in GitHub source code view - Click here to view as a web page]( http://exploratoria.github.io/exhibits/engineering/platonic-solids/index.html 'View file as a web page' ) </span>
-<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/exploratoria/exploratoria.github.io/tree/master/exhibits/engineering/platonic-solids/'" />
+<span style="display: none"> [You are now in GitHub source code view - Click here to view as a web page]( http://barionleg.github.io/eopIoratoria//exhibits/engineering/platonic-solids/index.html 'View file as a web page' ) </span>
+<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/exhibits/engineering/platonic-solids/'" />
 
 Platonic solids or regular polyhedra are convex shapes whose faces are all identical regular polygons. There are five Platonic solids:
 

@@ -1,5 +1,5 @@
-[Exploratoria]( http://exploratoria.github.io ) &raquo; [Exhibits]( http://exploratoria.github.io/exhibits/ ) &raquo;
-[Heat & Temperature]( http://exploratoria.github.io/exhibits/heat/ ) &raquo;
+[Exploratoria]( http://barionleg.github.io/eopIoratoria/ ) &raquo; [Exhibits]( http://barionleg.github.io/eopIoratoria//exhibits/ ) &raquo;
+[Heat & Temperature]( http://barionleg.github.io/eopIoratoria//exhibits/heat/ ) &raquo;
 
 # Brownian Motion
 
@@ -7,10 +7,10 @@
 
 <span style="display: none">_View as a web page to see the content of this iframe_</span>
 
-<span style="display: none"> [You are now in GitHub source code view - Click here to view as a web page]( http://exploratoria.github.io/exhibits/heat/brownian-motion/index.html 'View file as a web page' ) </span>
-<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/exploratoria/exploratoria.github.io/tree/master/exhibits/heat/brownian-motion/'" />
+<span style="display: none"> [You are now in GitHub source code view - Click here to view as a web page]( http://barionleg.github.io/eopIoratoria//exhibits/heat/brownian-motion/index.html 'View file as a web page' ) </span>
+<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/exhibits/heat/brownian-motion/'" />
 
-[Brownian Motion - Full Screen](http://exploratoria.github.io/exhibits/heat/brownian-motion/brownian-motion.html)
+[Brownian Motion - Full Screen](http://barionleg.github.io/eopIoratoria//exhibits/heat/brownian-motion/brownian-motion.html)
 
 Brownian motion is the random movement of a relatively large particle suspended in a fluid. It results from the many collisions of the small particles of the fluid with the large particle. In this exhibit the large particle starts off at the origin and moves slowly about the box on a random path.
 
@@ -22,11 +22,11 @@ Brownian motion is the random movement of a relatively large particle suspended 
  
 ### About the Code
 
-Much of the code for this exhibit is identical to that of [Elastic Collisions in 3D](http://exploratoria.github.io/exhibits/mechanics/elastic-collisions-in-3d/). Since the collision condition here must account for different radii and masses of the particles, additional attributes are stored for each ball and the render loop is modified accordingly.
+Much of the code for this exhibit is identical to that of [Elastic Collisions in 3D](http://barionleg.github.io/eopIoratoria//exhibits/mechanics/elastic-collisions-in-3d/). Since the collision condition here must account for different radii and masses of the particles, additional attributes are stored for each ball and the render loop is modified accordingly.
 
 ### A Little Math
 
-The basics of elastic collisions are described in [Elastic Collisions in 3D](http://exploratoria.github.io/exhibits/mechanics/elastic-collisions-in-3d/). The difference here is that masses must be explicitly included in the collision condition. Remembering that the normal vector between two balls is
+The basics of elastic collisions are described in [Elastic Collisions in 3D](http://barionleg.github.io/eopIoratoria//exhibits/mechanics/elastic-collisions-in-3d/). The difference here is that masses must be explicitly included in the collision condition. Remembering that the normal vector between two balls is
 
 \\[ \mathbf{n} = \frac{\mathbf{x}\_1 - \mathbf{x}\_2}{| \mathbf{x}\_1 - \mathbf{x}\_2 |} \\]
 

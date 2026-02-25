@@ -1,5 +1,5 @@
-[Exploratoria]( http://exploratoria.github.io ) &raquo; [Exhibits]( http://exploratoria.github.io/exhibits/ ) &raquo;
-[Astronomy]( http://exploratoria.github.io/exhibits/astronomy/ ) &raquo;
+[Exploratoria]( http://barionleg.github.io/eopIoratoria/ ) &raquo; [Exhibits]( http://barionleg.github.io/eopIoratoria//exhibits/ ) &raquo;
+[Astronomy]( http://barionleg.github.io/eopIoratoria//exhibits/astronomy/ ) &raquo;
 
 # Gravitating System
 
@@ -7,8 +7,8 @@
 
 <span style="display: none">_View as a web page to see the content of this iframe_</span>
 
-<span style="display: none"> [You are now in GitHub source code view - Click here to view as a web page]( http://exploratoria.github.io/exhibits/astronomy/gravitating-system/index.html 'View file as a web page' ) </span>
-<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/exploratoria/exploratoria.github.io/tree/master/exhibits/astronomy/gravitating-system/'" />
+<span style="display: none"> [You are now in GitHub source code view - Click here to view as a web page]( http://barionleg.github.io/eopIoratoria//exhibits/astronomy/gravitating-system/index.html 'View file as a web page' ) </span>
+<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/exhibits/astronomy/gravitating-system/'" />
 
 This is an <i>n</i>-body system where the masses interact through gravitational forces. It can represent a group of planets, stars or globular galaxies, all of equal mass.
 
@@ -22,7 +22,7 @@ Since there are no external forces acting on the system, the displayed total ene
 
 * Increase the velocity scale and note the change in the energy. When does the system become unbound?
 
-* This exhibit does not account for collisions of the bodies. Adapt the code from [another](http://exploratoria.github.io/exhibits/mechanics/elastic-collisions-in-3d/) exhibit to make the bodies bounce apart at a collision.
+* This exhibit does not account for collisions of the bodies. Adapt the code from [another](http://barionleg.github.io/eopIoratoria//exhibits/mechanics/elastic-collisions-in-3d/) exhibit to make the bodies bounce apart at a collision.
 
 ### About the Code
 

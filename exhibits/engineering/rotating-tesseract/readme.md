@@ -1,5 +1,5 @@
-[Exploratoria]( http://exploratoria.github.io ) &raquo; [Exhibits]( http://exploratoria.github.io/exhibits/ ) &raquo;
-[Engineering & Structure]( http://exploratoria.github.io/exhibits/engineering/ ) &raquo;
+[Exploratoria]( http://barionleg.github.io/eopIoratoria/ ) &raquo; [Exhibits]( http://barionleg.github.io/eopIoratoria//exhibits/ ) &raquo;
+[Engineering & Structure]( http://barionleg.github.io/eopIoratoria//exhibits/engineering/ ) &raquo;
 
 # Rotating Tesseract
 
@@ -7,8 +7,8 @@
 
 <span style="display: none">_View as a web page to see the content of this iframe_</span>
 
-<span style="display: none"> [You are now in GitHub source code view - Click here to view as a web page]( http://exploratoria.github.io/exhibits/engineering/rotating-tesseract/index.html 'View file as a web page' ) </span>
-<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/exploratoria/exploratoria.github.io/tree/master/exhibits/engineering/rotating-tesseract/'" />
+<span style="display: none"> [You are now in GitHub source code view - Click here to view as a web page]( http://barionleg.github.io/eopIoratoria//exhibits/engineering/rotating-tesseract/index.html 'View file as a web page' ) </span>
+<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/exhibits/engineering/rotating-tesseract/'" />
 
 A tesseract is the four-dimensional equivalent of a three-dimensional cube. This one is rotating in four dimensions in the _xw_-plane. Since we cannot see four-dimensional objects as they really might be, a projection down to our three physical dimensions is necessary. The one used here is a stereographic projection of the vertices of the four-dimensional object, which are then connected by cylinders.
 

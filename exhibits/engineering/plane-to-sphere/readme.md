@@ -1,5 +1,5 @@
-[Exploratoria]( http://exploratoria.github.io ) &raquo; [Exhibits]( http://exploratoria.github.io/exhibits/ ) &raquo;
-[Engineering & Structure]( http://exploratoria.github.io/exhibits/engineering/ ) &raquo;
+[Exploratoria]( http://barionleg.github.io/eopIoratoria/ ) &raquo; [Exhibits]( http://barionleg.github.io/eopIoratoria//exhibits/ ) &raquo;
+[Engineering & Structure]( http://barionleg.github.io/eopIoratoria//exhibits/engineering/ ) &raquo;
 
 # Plane to Sphere
 
@@ -7,8 +7,8 @@
 
 <span style="display: none">_View as a web page to see the content of this iframe_</span>
 
-<span style="display: none"> [You are now in GitHub source code view - Click here to view as a web page]( http://exploratoria.github.io/exhibits/engineering/plane-to-sphere/index.html 'View file as a web page' ) </span>
-<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/exploratoria/exploratoria.github.io/tree/master/exhibits/engineering/plane-to-sphere/'" />
+<span style="display: none"> [You are now in GitHub source code view - Click here to view as a web page]( http://barionleg.github.io/eopIoratoria//exhibits/engineering/plane-to-sphere/index.html 'View file as a web page' ) </span>
+<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/exhibits/engineering/plane-to-sphere/'" />
 
 A plane can be related to a sphere by [stereographic projection](https://en.wikipedia.org/wiki/Stereographic_projection#Definition), but a direct interpolation between the two looks rather funny. A much nicer animation results from using [involutes](https://en.wikipedia.org/wiki/Involute#Involutes_of_a_circle) of a circle!
 
