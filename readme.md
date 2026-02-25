@@ -1,4 +1,15 @@
 ﻿barionleg.github.io/eopIoratoria/
+
+https://barionleg.github.io/eopIoratoria/hopf-fibration_qPi_3.142857142857143.html
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ccfbd699-ec9a-42a2-a041-51bda3d4d3b1" />
+
+
+https://barionleg.github.io/eopIoratoria/hopf-fibration.html
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f8b9e250-3ba1-4d63-adb9-83064911bf7d" />
+
+ 
 ===
 <span style="display: none"> [View as web page]( http://barionleg.github.io/eopIoratoria// 'View file as a web page' ) </span>
 <input type=button value="View file as source code on GitHub" onclick="window.location.href='https://github.com/barionleg/eopIoratoria/'" />
