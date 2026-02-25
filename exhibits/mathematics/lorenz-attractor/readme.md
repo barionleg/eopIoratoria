@@ -8,7 +8,7 @@
 <span style="display: none">_View as a web page to see the content of this iframe_</span>
 
 <span style="display: none"> [You are now in GitHub source code view - Click here to view as a web page]( http://barionleg.github.io/eopIoratoria//exhibits/mathematics/lorenz-attractor/index.html 'View file as a web page' ) </span>
-<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/exhibits/mathematics/lorenz-attractor/'" />
+<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/barionleg/eopIoratoria/tree/master/exhibits/mathematics/lorenz-attractor/'" />
 
 [Lorenz Attractor - Full Screen](http://barionleg.github.io/eopIoratoria//exhibits/mathematics/lorenz-attractor/lorenz-attractor.html)
 

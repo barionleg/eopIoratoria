@@ -8,7 +8,7 @@
 <span style="display: none">_View as a web page to see the content of this iframe_</span>
 
 <span style="display: none"> [You are now in GitHub source code view - Click here to view as a web page]( http://barionleg.github.io/eopIoratoria//exhibits/waves/spherical-wave/index.html 'View file as a web page' ) </span>
-<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/exhibits/waves/spherical-wave/'" />
+<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/barionleg/eopIoratoria/tree/master/exhibits/waves/spherical-wave/'" />
 
 A <a href=http://scienceworld.wolfram.com/physics/SphericalWave.html>spherical wave</a> is
 is an oscillatory motion of all particles with respect to a central point, in this case the origin. Since all particles move move towards and away from the same point, the wave consists of spheres. A spherical wave is a solution to the <a href=https://en.wikipedia.org/wiki/Wave_equation#Scalar_wave_equation_in_three_space_dimensions>wave equation</a> with three dimensions of space.

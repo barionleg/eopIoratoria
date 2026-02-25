@@ -8,7 +8,7 @@
 <span style="display: none">_View as a web page to see the content of this iframe_</span>
 
 <span style="display: none"> [You are now in GitHub source code view - Click here to view as a web page]( http://barionleg.github.io/eopIoratoria//exhibits/mathematics/hopf-fibration/index.html 'View file as a web page' ) </span>
-<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/exhibits/mathematics/hopf-fibration/'" />
+<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/barionleg/eopIoratoria/tree/master/exhibits/mathematics/hopf-fibration/'" />
 
 The Hopf fibration is a mapping that associates a point on a two-dimensional spherical surface with a circle on a three-dimensional spherical surface. Since the three-dimensional surface exists in a four-dimensional space, it cannot be visualized directly. Instead the circles in four dimensions are brought down to our three-dimensional space using stereographic projection. This is the same mechanism as how a point light produces shadows of objects, so this method of visualizing four-dimensional objects is analogous to casting shadows down into our physical space.
 

@@ -8,7 +8,7 @@
 <span style="display: none">_View as a web page to see the content of this iframe_</span>
 
 <span style="display: none"> [You are now in GitHub source code view - Click here to view as a web page]( http://barionleg.github.io/eopIoratoria//exhibits/mathematics/parametric-surfaces/index.html 'View file as a web page' ) </span>
-<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/exhibits/mathematics/parametric-surfaces/'" />
+<input type=button value="You are now in GitHub web page view - Click here to view as source code" onclick="window.location.href='https://github.com/barionleg/eopIoratoria/tree/master/exhibits/mathematics/parametric-surfaces/'" />
 
 [Parametric Surfaces - Full Screen](http://barionleg.github.io/eopIoratoria//exhibits/mathematics/parametric-surfaces/parametric-surfaces.html)
 
@@ -26,5 +26,5 @@ Many thanks to [Jürgen Meier]( http://www.3d-meier.de/ )!
  
 ### About the Code
 
-The definitions of the functions visualized are all stored in a separate JavaScript file: [parametric-equations.js](https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/exhibits/mathematics/parametric-surfaces/js/parametric-equations.js)
+The definitions of the functions visualized are all stored in a separate JavaScript file: [parametric-equations.js](https://github.com/barionleg/eopIoratoria/tree/master/exhibits/mathematics/parametric-surfaces/js/parametric-equations.js)
 
