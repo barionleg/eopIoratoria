@@ -59,7 +59,7 @@ Star Spotter many updates
 ## NASA STL 3D Objects Viewer
 
 [NASA STL 3D Objects Viewer Read Me - Web Page]( http://barionleg.github.io/eopIoratoria//sandbox/astronomy/nasa-3d-objects-viewer/ )  
-[NASA STL 3D Objects Viewer Read Me - Source Code]( https://github.com/exploratoria/sandbox/tree/gh-pages/astronomy/nasa-3d-objects-viewer )  
+[NASA STL 3D Objects Viewer Read Me - Source Code]( https://github.com/barionleg/eopIoratoria/sandbox/tree/gh-pages/astronomy/nasa-3d-objects-viewer )  
 
 
 
@@ -70,7 +70,7 @@ HTML input tags with type = text | range | button etc are displayed by showdown.
 ## Code-Edit-View v1.1.0
 
 [Code-Edit-View Read Me - Web Page]( http://barionleg.github.io/eopIoratoria//sandbox/lib/code-edit-view/index.html )  
-[Code-Edit-View Read Me - Source Code]( https://github.com/exploratoria/sandbox/tree/gh-pages/lib/code-edit-view/ )
+[Code-Edit-View Read Me - Source Code]( https://github.com/barionleg/eopIoratoria/sandbox/tree/gh-pages/lib/code-edit-view/ )
 
 
 2015-09-10 ~ Theo
@@ -82,13 +82,13 @@ HTML input tags with type = text | range | button etc are displayed by showdown.
 Open and display [STL]( https://en.wikipedia.org/wiki/STL_(file_format) ) files
 
 [View STL Files Read Me - Web Page]( http://barionleg.github.io/eopIoratoria//cookbook/viewers/view-stl-files )  
-[View STL Files Read Me - Source Code]( https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/cookbook/viewers/view-stl-files/ )  
+[View STL Files Read Me - Source Code]( https://github.com/barionleg/eopIoratoria/tree/master/cookbook/viewers/view-stl-files/ )  
 
 
 ### Models
 
 [Models Read Me - Web Page]( http://barionleg.github.io/eopIoratoria//cookbook/models/index.html )  
-[Models Read Me - Source Code]( https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/cookbook/models/ )
+[Models Read Me - Source Code]( https://github.com/barionleg/eopIoratoria/tree/master/cookbook/models/ )
  
 
 
@@ -110,7 +110,7 @@ Open and display [STL]( https://en.wikipedia.org/wiki/STL_(file_format) ) files
 
 Add to notes section  
 [Version Manage Read Me - Web Page]( http://barionleg.github.io/eopIoratoria//sandbox/sandbox/version-manage/index.html )  
-[Version Manage Read Me - Source Code]( https://github.com/exploratoria/sandbox/tree/gh-pages/sandbox/version-manage/ )  
+[Version Manage Read Me - Source Code]( https://github.com/barionleg/eopIoratoria/sandbox/tree/gh-pages/sandbox/version-manage/ )  
 
 
 2015-09-06 ~ Theo
@@ -120,7 +120,7 @@ Create libs folder in sandbox
 Add readme reader to libs
 
 [Reader Read Me - Web Page]( http://barionleg.github.io/eopIoratoria//sandbox/lib/reader/index.html )  
-[Reader Read Me - Source Code]( https://github.com/exploratoria/sandbox/tree/gh-pages/lib/reader/ )
+[Reader Read Me - Source Code]( https://github.com/barionleg/eopIoratoria/sandbox/tree/gh-pages/lib/reader/ )
 
 index.html that calls JavaScript file in http://barionleg.github.io/eopIoratoria//sandbox/lib/ and display the readme.md as HTML
 
@@ -133,12 +133,12 @@ index.html that calls JavaScript file in http://barionleg.github.io/eopIoratoria
 Version Manager
 
 [Version Manage Read Me - Web Page]( http://barionleg.github.io/eopIoratoria//sandbox/sandbox/version-manage/index.html )  
-[Version Manage Read Me - Source Code]( https://github.com/exploratoria/sandbox/tree/gh-pages/sandbox/version-manage/ )  
+[Version Manage Read Me - Source Code]( https://github.com/barionleg/eopIoratoria/sandbox/tree/gh-pages/sandbox/version-manage/ )  
 
 Category Home Page Template
 
 [Category Home Page Template Read Me - Web Page]( http://barionleg.github.io/eopIoratoria//sandbox/sandbox/category-home-page-template/index.html )  
-[Category Home Page Template Read Me - Source Code]( - Source Code]( https://github.com/exploratoria/sandbox/tree/gh-pages/sandbox/category-home-page-template/ )  
+[Category Home Page Template Read Me - Source Code]( - Source Code]( https://github.com/barionleg/eopIoratoria/sandbox/tree/gh-pages/sandbox/category-home-page-template/ )  
 
 
 2015-09-04 ~ Theo

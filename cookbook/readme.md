@@ -3,7 +3,7 @@ Cookbook Read Me
 ===
 
 <span style="display: none"> [You are now in GitHub source code view - click here to view Read Me file as a web page]( http://barionleg.github.io/eopIoratoria//cookbook/index.html 'View file as a web page' ) </span>
-<input type=button value="You are now in GitHub web page view - Click here to view Read Me file as source code" onclick="window.location.href='https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/cookbook'" />
+<input type=button value="You are now in GitHub web page view - Click here to view Read Me file as source code" onclick="window.location.href='https://github.com/barionleg/eopIoratoria/tree/master/cookbook'" />
 
 Short coding samples - also called snippets - solutions to common tasks, 'presented in detail so that the users who are not necessarily expert in the field can produce workable results'.
 
@@ -20,17 +20,17 @@ See also Christopher Alexander: A Pattern Language - https://en.wikipedia.org/wi
 ### Models
 
 [Models Read Me - Web Page]( http://barionleg.github.io/eopIoratoria//cookbook/models/index.html )  
-[Models Read Me - Source Code]( https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/cookbook/models/ )
+[Models Read Me - Source Code]( https://github.com/barionleg/eopIoratoria/tree/master/cookbook/models/ )
   
 
 ### Samples
 
 [Samples Read Me - Web Page]( http://barionleg.github.io/eopIoratoria//cookbook/samples/index.html )  
-[Samples Read Me - Source Code]( https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/cookbook/samples/ )  
+[Samples Read Me - Source Code]( https://github.com/barionleg/eopIoratoria/tree/master/cookbook/samples/ )  
 
 
 ### Viewers
 
 [Viewers Read Me - Web Page]( http://barionleg.github.io/eopIoratoria//cookbook/viewers/index.html )  
-[Viewers Read Me - Source Code]( https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/cookbook/viewers/ )
+[Viewers Read Me - Source Code]( https://github.com/barionleg/eopIoratoria/tree/master/cookbook/viewers/ )
   

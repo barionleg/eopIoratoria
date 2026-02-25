@@ -3,7 +3,7 @@ Notes
 ===
 
 <span style="display: none"> [View as web page]( http://barionleg.github.io/eopIoratoria//index.html#notes.md 'View file as a web page' ) </span>
-<input type=button value="View file as source code on GitHub" onclick="window.location.href='https://github.com/exploratoria/barionleg.github.io/eopIoratoria//blob/master/notes.md'" />
+<input type=button value="View file as source code on GitHub" onclick="window.location.href='https://github.com/barionleg/eopIoratoria/blob/master/notes.md'" />
 
 
 

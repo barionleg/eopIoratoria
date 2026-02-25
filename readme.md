@@ -1,7 +1,7 @@
 ﻿barionleg.github.io/eopIoratoria/
 ===
 <span style="display: none"> [View as web page]( http://barionleg.github.io/eopIoratoria// 'View file as a web page' ) </span>
-<input type=button value="View file as source code on GitHub" onclick="window.location.href='https://github.com/exploratoria/barionleg.github.io/eopIoratoria//'" />
+<input type=button value="View file as source code on GitHub" onclick="window.location.href='https://github.com/barionleg/eopIoratoria/'" />
 
 Welcome to the Exploratoria home page!
 
@@ -64,7 +64,7 @@ This website uses technology to explain, show and demonstrate the physical and t
 It attempts to achieve the best of what technology should do in the real world.
 
 [Exhibits Read Me - web page view]( http://barionleg.github.io/eopIoratoria//exhibits/ )  
-[Exhibits Read Me - source code view]( https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/exhibits/ )
+[Exhibits Read Me - source code view]( https://github.com/barionleg/eopIoratoria/tree/master/exhibits/ )
 
 
 ## Cookbook
@@ -72,7 +72,7 @@ It attempts to achieve the best of what technology should do in the real world.
 Short coding samples - also called snippets - solutions to common tasks, 'presented in detail so that the users who are not necessarily expert in the field can produce workable results'.
 
 [Cookbook - web page view]( http://barionleg.github.io/eopIoratoria//cookbook/ )  
-[Cookbook - source code view]( https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/cookbook/ )
+[Cookbook - source code view]( https://github.com/barionleg/eopIoratoria/tree/master/cookbook/ )
 
 
 ## Templates
@@ -80,7 +80,7 @@ Short coding samples - also called snippets - solutions to common tasks, 'presen
 These are the files we use to build this web site. You can use them too.
 
 [Templates - web page view]( http://barionleg.github.io/eopIoratoria//templates/ )  
-[Templates - source code view]( https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/templates/ )
+[Templates - source code view]( https://github.com/barionleg/eopIoratoria/tree/master/templates/ )
 
 
 ## Library
@@ -88,7 +88,7 @@ These are the files we use to build this web site. You can use them too.
 Supporting files and miscellaneous utilities
 
 [Library - web page view]( http://barionleg.github.io/eopIoratoria//lib/ )  
-[Library - source code view]( https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/lib/ )
+[Library - source code view]( https://github.com/barionleg/eopIoratoria/tree/master/lib/ )
 
 
 <center>

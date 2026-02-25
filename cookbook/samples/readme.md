@@ -2,7 +2,7 @@
 Samples Read Me
 ===
 <span style="display: none"> [You are now in GitHub source code view - click here to view Read Me file as a web page]( https://barionleg.github.io/eopIoratoria/cookbook/samples/index.html 'View file as a web page' ) </span>
-<input type=button value="You are now in GitHub web page view - Click here to view Read Me file as source code" onclick="window.location.href='https://github.com/exploratoria/barionleg.github.io/eopIoratoria//tree/master/cookbook/samples/'" />
+<input type=button value="You are now in GitHub web page view - Click here to view Read Me file as source code" onclick="window.location.href='https://github.com/barionleg/eopIoratoria/tree/master/cookbook/samples/'" />
 
 <iframe id=view src="https://barionleg.github.io/eopIoratoria/sandbox/lib/code-edit-view/dev/index.html#https://barionleg.github.io/eopIoratoria/cookbook/samples/code-snippet.html" width=100% height=500px ></iframe>  
 
